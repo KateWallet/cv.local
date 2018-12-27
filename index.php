@@ -103,11 +103,8 @@
                     </div><!--//upper-row-->
                     <div class="company"><?= $experience['company'] ?>, <?= $experience['city'] ?></div>
                 </div><!--//meta-->
-<!--                <div class="details">-->
-<!--                    --><?//= $experience['about'] ?>
-<!--                </div> <!--//details-->
             <? } ?>
-        </section><!--//section-->
+        </section> <!--//section-->
 
         <section class="section projects-section">
             <h2 class="section-title"><i class="fa fa-archive"></i>Проекты</h2>
